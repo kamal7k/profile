@@ -5,102 +5,49 @@ const ProjectsData = [
     id: "1",
     img: git ,
     name: "Vyayamshala Gym",
-    stack: ["< RESTful API />", "< Bootstrap v5 />", "< React.js />"],
-    live: "",
+    stack: ["< RESTful API />", "< Tailwind CSS />", "< React.js />", "< React.js />"],
+    live: "https://vyayamshala-two.vercel.app/",
     source: "https://github.com/kamal7k/vyayamshala",
     description:
-      "Vyayamshala is fully functional gym application with cliend site and adim panel",
+      "Vyayamshala is fully functional responsive gym application which features user sign-up for gym membership and admin panel to manage users and trainers detail",
   },
   {
     id: "2",
     img: git ,
     name: "Codepen Editor",
-    stack: ["< RESTful API />", "< Bootstrap v5 />", "< React.js />"],
-    live: "",
+    stack: ["< RESTful API />", "< Tailwind CSS />", "< React.js />"],
+    live: "https://codepen-zeta-five.vercel.app/",
     source: "https://github.com/kamal7k/codepen-clone",
     description:
-      "A cross-platform app that connects local service providers with customers. As a full stack developer, I contributed to the development of the app using Flutter, Node.js, Express.js, Next.js and MongoDB. I also worked on the design of the app using Figma. The mobile app is currently in the testing phase and will be launched soon. Web app's frontend is also completed.",
+      "This is the simple and functional code editing application. This editor supports HTML (Hypertext Markup Language), CSS (Cascading Style Sheets), and JavaScript. This editor also includes authentication features.",
   },
-  // {
-  //   id: "3",
-  //   img: RestCountries,
-  //   name: "REST Countires API",
-  //   stack: ["< RESTful API />", "< Bootstrap v5 />", "< React.js />"],
-  //   live: "https://rest-countries-api-rimshub.vercel.app/",
-  //   source: "https://github.com/rimshub/rest-countries-api",
-  //   description:
-  //     "Responsive website which integrates with the REST Countries API to pull country data. You can view the list of all countries and find one via search or by filtering regions. Individual country page, enables you to see further details about the country like border countries. Mobile first workflow and Bootstrap v5 is used to make it responsive.",
-  // },
-
-  // {
-  //   id: "space-tourism",
-  //   img: SpaceTourism,
-  //   name: "Space Tourism Website",
-  //   stack: ["< React.js />", "< CSS3 />"],
-  //   live: "https://react-space-tourism-website-alpha.vercel.app/",
-  //   source: "https://github.com/rimshub/react-space-tourism-website",
-  //   description:
-  //     "Multi-page space tourism website provides relevent information for users. It has a responsive design and navigation. A large and complex project that required me to plan ahead and break down the work into smaller chunks. I used React.js to build the website and CSS3 for styling.",
-
-  // },
-  // {
-  //   id: "cloud-storage",
-  //   img: AWS,
-  //   name: "Cloud Storage with AWS Simple Storage Service",
-  //   stack: ["< AWS S3 /> " , "< JavaScript /> " , "< Express.js />"],
-  //   live: "",
-  //   source: "https://github.com/rimshub/cloud-storage-s3",
-  //   description:  
-  //       "This challenge from frontendmentor tested my skills to create dropdown navigation menus, a common pattern on larger sites. It also has some nice basic layout challenge",
-  // },
-
-  // {
-  //   id: "advice-generator",
-  //   img: Advice,
-  //   name: "Advice Generator App",
-  //   stack: ["< HTML5 />", "< CSS3 />", "< JavaScript />"],
-  //   live: "https://rimshub.github.io/javascript-advice-generator/",
-  //   source: "https://github.com/rimshub/javascript-advice-generator",
-  //   description:
-  //     "This advice generator app using the Advice Slip API. A small and fun app to practice JavaScript and mobile first workflow and CSS3. It has a responsive design and navigation.",
-  // },
-
 
   {
     id: "todo",
     img: git ,
     name: "JavaScript Todo App",
-    stack: ["< JavaScript />  ", "< Sass />"],
+    stack: ["< JavaScript />  ", "< CSS />"],
     live: "",
     source: "https://github.com/kamal7k/ToDO",
     description:
       "Responsive JS todo app with color theme switcher. Enables users to add, delete, filter, and clear day-to-day tasks. It has user-friendly interface and navigation. I was able to practice my JavaScript and Sass skills in this project.",
   },
 
-  // {
-  //   id: "dropdown-nav",
-  //   img: Page,
-  //   name: "Homepage with dropdown navigation / Figma to React",
-  //   stack: ["< React.js />   ", "< CSS3 />"],
-  //   live: "https://rimshub.github.io/figma-design-to-reactjs/",
-  //   source: "https://github.com/rimshub/figma-design-to-reactjs",
-  //   description:
-  //     "This challenge from frontendmentor tested my skills to create dropdown navigation menus, a common pattern on larger sites. It also has some nice basic layout challenge. As a front-end developer, I was able to practice my React.js and CSS3 skills in this project.",
-  // },
+
 
 ];
 
 const InprogressProjectsData = [
 
   {
-    id: "url-short",
+    id: "ecommerce",
     img: landingPage,
-    name: "URL shortening API landing page",
-    stack: ["< JavaScript />", "< NodeJS />"],
+    name: "Shopy",
+    stack: ["< ReactJS />", "< NodeJS />"],
     live: "",
-    source: "https://github.com/rimshub/URL-shortening-API-landing-page",
+    source: "https://github.com/kamal7k/shopy",
     description:
-      "Integrate with the shrtcode URL shortening API and play with browser storage in this landing page challenge",
+      "",
   },
 
 ];
