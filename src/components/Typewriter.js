@@ -8,8 +8,8 @@ const Typewriter = () => {
     'MongoDB',
     'NodeJS',
     'ExpressJS',
-    'Git Hub',
-    'Figma',
+    'Content Writer',
+    'SEO',
   ];
   const [currentStringIndex, setCurrentStringIndex] = useState(0);
   const [currentString, setCurrentString] = useState('');
