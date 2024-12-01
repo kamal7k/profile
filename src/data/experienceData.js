@@ -22,6 +22,14 @@ const expData = [
     date: "Jun 2024 - Sept 2024",
     description:
       "In my role as a MERN Stack Developer, I was responsible for creating web applications using the ReactJS framework. I conducted in-depth research and analysis to identify opportunities for system enhancements and collaborated with cross-functional teams to improve user experience and system performance."
+  },
+  {
+    id: "4",
+    org: "Digital Kathmandu",
+    title: "Content Writer & SEO",
+    date: "Nov 2024 - Present",
+    description:
+      "I worked as a Content Writer and SEO Specialist at Digital Kathmandu, where I have developed a keen interest in digital marketing. My foundational understanding of the field stems from self-learning through YouTube tutorials. This role has provided me with an opportunity to gain hands-on experience in a professional environment, where I have successfully applied my programming expertise and marketing insights to enhance my skills and contribute meaningfully to the team's objectives. "
   }
 ];
 
