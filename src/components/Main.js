@@ -23,9 +23,9 @@ function Main() {
             <Typewriter />
           </div>
           <p className="dark:text-[#ccc] text-justify leading-loose pt-5 font-[400] mt-[-.8rem] text-custom-18 sm:text-[1rem] w-[90%] md:w-[95%] tm:w-full sm:w-full sm:mt-0">
-            I am passionate about building websites and web applications. With a degree in B.Sc.(Hons) in Computer Systems Engineering from the University of Sunderland, With expertise in end-to-end web development, I have successfully built projects using tools and technologies like Figma, JavaScript, ReactJS, Tailwind CSS, NodeJS, Git, and MongoDB. Additionally, I have hands-on experience in digital marketing, enhancing my ability to merge technical proficiency with strategic marketing insights.
+            I am passionate about building websites and web applications. With a degree in B.Sc.(Hons) in Computer Systems Engineering from the University of Sunderland, With expertise in end-to-end web development, I have successfully built projects using tools and technologies like Figma, JavaScript, ReactJS, Tailwind CSS, NodeJS, Git, and MongoDB.
 
-            My skill set spans software engineering, web development, and digital marketing, enabling me to deliver innovative solutions that drive growth. I am currently seeking an internship or junior role as a MERN Stack Developer or in digital marketing, where I can leverage my diverse expertise to contribute to organizational success.
+            My skill in web development enables me to deliver innovative solutions that drive growth. I am currently seeking an internship or junior role as a MERN Stack Developer where I can leverage my diverse expertise to contribute to organizational success.
           </p>
 
         </div>

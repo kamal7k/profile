@@ -23,33 +23,33 @@ const ProjectsData = [
   },
 
   {
-    id: "todo",
+    id: "coffe-Hub",
     img: git ,
     name: "JavaScript Todo App",
-    stack: ["< JavaScript />  ", "< CSS />"],
-    live: "",
-    source: "https://github.com/kamal7k/ToDO",
+    stack: ["< RESTful API />", "< Tailwind CSS />", "< React.js />"],
+    live: "https://coffee-hub-nine.vercel.app/",
+    source: "https://github.com/kamal7k/coffeeHub",
     description:
-      "Responsive JS todo app with color theme switcher. Enables users to add, delete, filter, and clear day-to-day tasks. It has user-friendly interface and navigation. I was able to practice my JavaScript and Sass skills in this project.",
+      "Complete Responsive and Interactive website with tons of useful fetaures.This is coffeHub where users can place orders and customize according to their need.There is Admin Panel for Admin with authority to cutomize according to their needs ",
   },
 
 
 
 ];
 
-const InprogressProjectsData = [
+// const InprogressProjectsData = [
 
-  {
-    id: "ecommerce",
-    img: landingPage,
-    name: "Shopy",
-    stack: ["< ReactJS />", "< NodeJS />"],
-    live: "",
-    source: "https://github.com/kamal7k/shopy",
-    description:
-      "",
-  },
+//   {
+//     id: "ecommerce",
+//     img: landingPage,
+//     name: "Shopy",
+//     stack: ["< ReactJS />", "< NodeJS />"],
+//     live: "",
+//     source: "",
+//     description:
+//       "",
+//   },
 
-];
+// ];
 
 export default { ProjectsData, InprogressProjectsData }
