@@ -1,4 +1,3 @@
-import landingPage from './../assets/portfolioImages/url.jpg'
 import git from '../assets/git.jpg'
 const ProjectsData = [
   {
@@ -52,4 +51,4 @@ const ProjectsData = [
 
 // ];
 
-export default { ProjectsData, InprogressProjectsData }
+export default { ProjectsData}
