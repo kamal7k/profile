@@ -24,8 +24,8 @@ const ProjectsData = [
   {
     id: "coffe-Hub",
     img: git ,
-    name: "JavaScript Todo App",
-    stack: ["< RESTful API />", "< Tailwind CSS />", "< React.js />"],
+    name: "coffee Hub",
+    stack: ["< Node.js />", "< Tailwind CSS />", "< React.js />"],
     live: "https://coffee-hub-nine.vercel.app/",
     source: "https://github.com/kamal7k/coffeeHub",
     description:
